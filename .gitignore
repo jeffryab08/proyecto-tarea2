@@ -1,0 +1,15 @@
+# Sphinx build outputs
+docs/build/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+
+# Project generated assets
+output_images/
+reporte_imagenes.xlsx
